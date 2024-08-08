@@ -1,0 +1,25 @@
+{
+  "name": "sale_discount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sale_discount.js",
+  "scripts": {
+    "start": "node sale_discount.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayyedyusuf2/sale_discount_script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayyedyusuf2/sale_discount_script/issues"
+  },
+  "homepage": "https://github.com/sayyedyusuf2/sale_discount_script#readme",
+  "dependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
